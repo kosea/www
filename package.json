@@ -1,0 +1,22 @@
+{
+  "name": "kosea-www",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosea/www.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosea/www/issues"
+  },
+  "homepage": "https://github.com/kosea/www#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
